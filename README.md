@@ -1,3 +1,3 @@
-https://www.reddit.com/r/SBCGaming/comments/13wpaec/comment/najpknw/
+https://www.reddit.com/r/SBCGaming/comments/13wpaec/this_is_espkachu
 
 It’s an ESP32 inside a broken Pocket Pikachu. It uses Nathalis’s NCAT software to play NES, GBC, and SMS on a 1.3” IPS screen. There’s a 100mAh battery crammed in there that lasts 16 minutes, and it’s recharged via a tiny external PCB because I didn’t want to cut a massive hole for a USB C socket. The SD card can be accessed by unscrewing the battery cover. It uses all but 1 of the original screws with a bunch of the inside carved away to make space.
