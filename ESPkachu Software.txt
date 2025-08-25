@@ -1,0 +1,16 @@
+ESPkachu Software
+It's based on this build from XGAMES VIDEOJUEGOS. Use their online flash tool.
+
+Youtube video:
+https://www.youtube.com/watch?v=De24Sk51MLY&ab_channel=XGAMESVIDEOJUEGOS
+
+Blog post:
+https://xgamesvideojuegos.blogspot.com/2022/09/ncat-nes-portatil-en-un-control-de-nes.html
+
+SOftware flasher:
+https://davidxgames.github.io/ESP32-FLASH-ONLINE/cartnes.html
+
+
+
+NCAT:
+https://github.com/nathalislight/NCAT
